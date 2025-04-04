@@ -1,0 +1,2 @@
+"to jest nowa funkcjonalnosc" 
+"druga linijka." 
